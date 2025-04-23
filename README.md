@@ -100,7 +100,7 @@ The toggleable "Info Bar" provides guidance and additional information about how
 
 ## Project Structure
 ```
-📦 ProvectusInternship_SebastianAlbowicz
+📦 rag_concert_info_bot
 ├── 📁 images                       # Images for README ilustrations.
 ├── 📁 src
 │   ├── app.py                      # Main entry point for the RAG system
@@ -123,7 +123,7 @@ The toggleable "Info Bar" provides guidance and additional information about how
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/salbowic/ProvectusInternship_SebastianAlbowicz.git
+git clone https://github.com/salbowic/rag_concert_info_bot.git
 ```
 
 ### 2. **Install Dependencies**
