@@ -1,7 +1,5 @@
 # RAG Concert Tours Information Bot
 
-### Author: Sebastian Albowicz
-
 ## Overview
 This project implements a **Retrieval-Augmented Generation (RAG)** system designed to provide intelligent responses to user queries by combining document retrieval and generative AI capabilities. The system supports two primary functionalities:
 1. **Core RAG Functionality**: Allows users to inject documents into a knowledge base and retrieve relevant information using natural language queries.
